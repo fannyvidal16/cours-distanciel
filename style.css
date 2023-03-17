@@ -2,7 +2,6 @@ html, body {
 	height: 100%;
 	margin: 0;
 }
-
 .bg-image {
 	background-image: url('img/fond.jpg');
 	background-size: cover;
@@ -20,7 +19,6 @@ html, body {
 	align-items: center;
 	height: 100vh;
 }
-
 img {
 	max-width: 100%;
 	max-height: 100%;
